@@ -1,0 +1,29 @@
+{
+  "name": "expresswebsite",
+  "version": "1.0.0",
+  "description": "Archivos de los ejercicios del video tutorial",
+  "main": "app/app.js",
+  "scripts": {
+    "start": "node app/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donatobhr/expressWebsite.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Donato Bencosme",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/donatobhr/expressWebsite/issues"
+  },
+  "homepage": "https://github.com/donatobhr/expressWebsite#readme",
+  "dependencies": {
+    "expressjs": "^1.0.1"
+  }
+}
